@@ -1,6 +1,6 @@
 baseURL = "https://alejandria.vercel.app/"
 languageCode = "en"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 title = "Alejandria"
 theme = "KeepIt"
 
@@ -24,10 +24,6 @@ disqusShortname = ""
  posts = "/:year/:filename/"
 
 [menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 1
 
   [[menu.main]]
     name = "Categories"
