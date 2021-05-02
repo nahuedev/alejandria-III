@@ -1,6 +1,7 @@
 +++
 title = "Terminal de Comandos Fundamentos"
 description = ""
+draft= true
 type = ["posts","post"]
 tags = [
     "",
