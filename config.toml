@@ -41,8 +41,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    author = "Nahue Dev"               # Author's name
+    subtitle = ""       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -58,19 +58,19 @@ disqusShortname = "yourdiscussshortname"
     description = "" # site description
     keywords = "" # site keywords
 
-    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license= ''
 
 [params.gravatar]
     #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
 
 
 [params.social]
-    GitHub = "xxxx"
+    GitHub = "nahuedev"
     Linkedin = "xxxx"
-    Twitter = "xxxx"
+    #Twitter = "xxxx"
     #Instagram = "xxxx"
     #Email   = "xxxx"
-    Facebook = "xxxx"
+    #Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -140,10 +140,10 @@ Linkedin = true
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = "Nahue Dev"
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "Nahue Dev"
 
     [params.publisher.logo]
       url = "logo.png"
